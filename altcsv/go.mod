@@ -1,3 +1,3 @@
 module github.com/Sushi22/gowrapper/altcsv
 
-go 1.13
+go 1.17
